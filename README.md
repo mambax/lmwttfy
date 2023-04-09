@@ -1,2 +1,2 @@
 # lmwttfy
-Let me write that ticket for you...
+Let me write that ticket for you…
